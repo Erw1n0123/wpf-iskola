@@ -1,0 +1,16 @@
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\bin\Debug\iskolaWPF.exe.config
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\bin\Debug\iskolaWPF.exe
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\bin\Debug\iskolaWPF.pdb
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\App.g.cs
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF_MarkupCompile.cache
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF_MarkupCompile.lref
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\MainWindow.baml
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.g.resources
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.Properties.Resources.resources
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.csproj.GenerateResource.cache
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.exe
+C:\Users\Ervin\Desktop\asztali\iskola\wpf-iskola\iskolaWPF\iskolaWPF\obj\Debug\iskolaWPF.pdb
